@@ -21,12 +21,12 @@
 
 ### Inserindo dados no sitema 💻⬅
 <p align="center">
-  <img alt="output-empate" src=".github/especial_metods.PNG">
+  <img alt="inserindo dados" src=".github/especial-metods.PNG">
 </p>
 
 ## Preview - Funcionários da empresa 🤝🏽
 <p align="center">
-  <img alt="output-v01" src=".github/compilacao.PNG">
+  <img alt="funcionarios" src=".github/compilacao.PNG">
 </p>
 
 ## Tecnologias 🛠
