@@ -6,7 +6,7 @@
 
 ### Java POO ☕
 
-<p align="justify">Código desenvolvido como resultado das aulas da faculdade. Esse programa foi elaborado para para representar as funcionalidades de um Sistema de Recursos Humanos empresarial, conseguindo assim me fazer entender ainda mais sobre as fcaracterísticas da Programação Orientada a Objetos - Java.
+<p align="justify">Código desenvolvido como resultado das aulas da faculdade. Esse programa foi elaborado para para representar as funcionalidades de um Sistema de Recursos Humanos empresarial, conseguindo assim me fazer entender ainda mais sobre as características da Programação Orientada a Objetos - Java.
 </p>
 
 <strong>O programa vai exibir na tela:</strong>
