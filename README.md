@@ -6,10 +6,10 @@
 
 ### Java POO ☕
 
-<p align="justify">Código desenvolvido como resultado das aulas da faculdade. Esse programa foi elaborado para para representar as funcionalidade de um Sistema de Recursos Humanos empresarial, conseguindo assim nos trazer aprendizados sobre o conceito da Programação Orientada a Objetos - Java.
+<p align="justify">Código desenvolvido como resultado das aulas da faculdade. Esse programa foi elaborado para para representar as funcionalidades de um Sistema de Recursos Humanos empresarial, conseguindo assim me fazer entender ainda mais sobre as fcaracterísticas da Programação Orientada a Objetos - Java.
 </p>
 
-O programa vai exibir na tela:
+<strong>O programa vai exibir na tela:</strong>
 
 - [x] Nome do empregado
 - [x] Seu código/número pessoal
